@@ -18,7 +18,7 @@ Sistem Informasi Sekolah adalah aplikasi berbasis web dan mobile yang dirancang 
 
 ## Teknologi yang Digunakan
 
-- Backend: Laravel 10.x
+- Backend: Laravel 11.x
 - Web Frontend: React 18.x
 - Mobile App: Flutter 3.x
 - Database: MySQL 8.x
